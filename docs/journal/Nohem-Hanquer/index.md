@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Nohem Hanquer
+title: Nohem-Hanquer
 parent: Journal de bord
 has_children: true
 ---
